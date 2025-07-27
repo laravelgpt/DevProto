@@ -76,9 +76,9 @@ You can deploy this app to:
 
 ## 🧑‍💻 Author
 
-- Name: [Your Name]
-- Website: [your-portfolio.com]
-- GitHub: [@yourusername]
+- Name: [shamim]
+- Website: [shamimhossain.com.bd]
+- GitHub: [@laravelgpt]
 
 ## 📄 License
 
