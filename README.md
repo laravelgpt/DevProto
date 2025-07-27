@@ -31,7 +31,7 @@ portfolio-next-responsive-updated/
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/portfolio-next-responsive-updated.git
+git clone https://github.com/laravelgpt/DevProto.git
 cd portfolio-next-responsive-updated
 ```
 
